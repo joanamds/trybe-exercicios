@@ -5,9 +5,8 @@
     <title>HTML</title>
     <style>
         h1 {
+            font-family: sans-serif;
             font-size: 65px;
-        }
-        h1 {
             color: orange;
         }
 
@@ -15,16 +14,39 @@
             background-color: green;
         }
 
+        p {
+          font-style: italic;
+          font-family: sans-serif;
+          font-size: 48px;
+          font-weight: 600;
+        }
+
+        body {
+          font-size: 20px;
+        }
+
+        #amarelo {
+          background-color: yellow;
+        }
+
+        #vermelho {
+          background-color: red;
+        }
+
+        #marrom{
+          background-color: rgba(100, 66, 66, 0.979);
+        }
+
 
     </style>
   </head>
   <body>
     <h1>Exercícios 3.2</h1>
-    <p class="list-u">Qual é a sua cor favorita?</p>
-    <ul class="list-u">
-      <li>Amarelo</li>
-      <li>Vermelho</li>
-      <li>Marrom</li>
+    <p>Qual é a sua cor favorita?</p>
+    <ul>
+      <li id="amarelo">Amarelo</li>
+      <li id="vermelho">Vermelho</li>
+      <li id="marrom">Marrom</li>
     </ul>
   </body>
 </html>
