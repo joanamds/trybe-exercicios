@@ -1,0 +1,1 @@
+Exercícios feitos no primeiro dia do bloco 3!
