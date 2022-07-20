@@ -1,6 +1,6 @@
-const a = 120; 
-const b = 12; 
+const a = 15; 
+const b = 2; 
 
-let div = (a/b); 
+let mod = (a%b); 
 
-console.log(div);
+console.log(mod);
