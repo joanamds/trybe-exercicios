@@ -1,11 +1,7 @@
-const a = 12;
-const b = 25;
-const c = 60; 
+const num = -2;  
 
-if (a > b && a > c) {
-    console.log(a);
-} else if (b > a && b > c){
-    console.log(b);
+if (num < 0) {
+    console.log("negative");
 } else {
-    console.log(c);
+    console.log("positive");
 }
