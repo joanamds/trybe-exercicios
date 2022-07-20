@@ -1,1 +1,2 @@
-Repositório para inserir os exercícios realizados durante o curso da Trybe! 
+Exercícios feitos no quarto dia do bloco 3!
+
