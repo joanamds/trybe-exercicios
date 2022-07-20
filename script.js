@@ -1,6 +1,6 @@
-const a = 50; 
-const b = 25; 
+const a = 12; 
+const b = 6; 
 
-let sub = (a-b); 
+let multi = (a*b); 
 
-console.log(sub);
+console.log(multi);
