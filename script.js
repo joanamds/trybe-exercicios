@@ -1,6 +1,6 @@
-const a = 12; 
-const b = 14; 
+const a = 50; 
+const b = 25; 
 
-let soma = (a+b); 
+let sub = (a-b); 
 
-console.log(soma);
+console.log(sub);
