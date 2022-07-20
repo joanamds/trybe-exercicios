@@ -1,1 +1,1 @@
-Repositório para inserir os exercícios realizados durante o curso da Trybe! 
+Exercícios do primeiro dia do módulo 4! 
