@@ -1,8 +1,11 @@
 const a = 12;
 const b = 25;
+const c = 60; 
 
-if (a > b) {
+if (a > b && a > c) {
     console.log(a);
-} else {
+} else if (b > a && b > c){
     console.log(b);
+} else {
+    console.log(c);
 }
