@@ -1,6 +1,8 @@
-const a = 15; 
-const b = 2; 
+const a = 12;
+const b = 25;
 
-let mod = (a%b); 
-
-console.log(mod);
+if (a > b) {
+    console.log(a);
+} else {
+    console.log(b);
+}
