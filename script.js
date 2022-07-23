@@ -6,4 +6,8 @@ let index = 0;
 for (let index = 1; index < 26; index += 1) {
     numbers.push(index);
     } 
-    console.log(numbers);
+
+    for (let index = 1; index < 26; index += 1) {
+        div = numbers[index] / 2; 
+        console.log(div);
+    }
