@@ -1,2 +1,1 @@
-# Exercícios da Trybe! :rocket: 
-Repositório para inserir os exercícios realizados durante o curso da Trybe!
+# Exercícios do terceiro dia do Bloco 4
